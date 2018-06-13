@@ -6,4 +6,4 @@
 
 * This is Galvanize, we are in your area
 
-[bbc.com]
+[link to bbc] (bbc.com)
